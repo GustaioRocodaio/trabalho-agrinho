@@ -1,0 +1,55 @@
+body {
+
+    background-color: rgb(160, 230, 160);
+    color: black;
+    background-image: url('fundodosite.jpg');
+
+
+
+    }
+    
+    .titulo {
+    text-decoration: overline;
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(162, 211, 255);
+    
+    
+    }
+    
+    .inicio {
+    
+    text-align: center;
+    background-color: rgb(162, 211, 255);
+    
+    }
+    
+    .explic {
+    
+    text-align: center;
+    
+    
+    }
+    
+    .trator {
+    
+    text-align: right;
+    
+    
+    }
+    
+    .tratorb {
+    
+    text-align: left;
+    
+    
+    }
+
+    .texto2 {
+
+text-align: center;
+
+
+
+    }
+    
